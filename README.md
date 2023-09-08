@@ -2,6 +2,8 @@
 Game 1:
 
 ![image](https://github.com/VagelisKormazos/Scratch-Games/assets/100516014/470ee207-5c6d-4b2b-94de-2262cc8d7e56)
+
+
 Game 2:
 
 ![image](https://github.com/VagelisKormazos/Scratch-Games/assets/100516014/df86871d-8dcc-46e7-b1b9-f25abdecb3b1)
