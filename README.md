@@ -1,6 +1,10 @@
 # Scratch-Games
 
-![Pong Game](screenshot.png)
+##Game1
+![image](https://github.com/VagelisKormazos/Scratch-Games/assets/100516014/8f732ac2-74d4-440e-9977-c2a15a217348)
+
+##Game 2
+![image](https://github.com/VagelisKormazos/Scratch-Games/assets/100516014/df86871d-8dcc-46e7-b1b9-f25abdecb3b1)
 
 This is a simple implementation of the classic Pong game created using Scratch. It's a fun and interactive way to teach your students about basic game development concepts and Scratch programming.
 
@@ -54,3 +58,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 Enjoy teaching your students with this fun Scratch Pong Game! If you have any questions or need assistance, please don't hesitate to [contact us](mailto:youremail@example.com).
+
+
+
