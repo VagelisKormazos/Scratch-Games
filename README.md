@@ -1,4 +1,4 @@
-# Scratch-Pong
+# Scratch-Games
 
 ![Pong Game](screenshot.png)
 
