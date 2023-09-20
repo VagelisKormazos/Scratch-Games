@@ -10,6 +10,11 @@ Game 2:
 
 This is a simple implementation of the classic Pong game created using Scratch. It's a fun and interactive way to teach your students about basic game development concepts and Scratch programming.
 
+Game 3:
+
+![image](https://github.com/VagelisKormazos/Scratch-Games/assets/100516014/3f71b87b-42c8-40ef-a2ae-1352dd049d2b)
+
+
 ## Table of Contents
 - [Gameplay](#gameplay)
 - [Features](#features)
