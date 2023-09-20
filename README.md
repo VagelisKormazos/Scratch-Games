@@ -9,10 +9,13 @@ Game 2:
 
 ![image](https://github.com/VagelisKormazos/Scratch-Games/assets/100516014/df86871d-8dcc-46e7-b1b9-f25abdecb3b1)
 
+This is a simple implementation of the classic Jumping game created using Scratch. There's a bat that has to avoid the branches in the forest.
+
 Game 3:
 
 ![image](https://github.com/VagelisKormazos/Scratch-Games/assets/100516014/3f71b87b-42c8-40ef-a2ae-1352dd049d2b)
 
+This is a simple implementation of the classic Catch Game created using Scratch.This is a shark that needs to be eaten to death and It's a fun and interactive way to teach your students about basic game development concepts and Scratch programming.
 
 ## Table of Contents
 - [Gameplay](#gameplay)
