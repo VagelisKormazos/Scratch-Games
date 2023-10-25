@@ -17,6 +17,13 @@ Game 3:
 
 This is a simple implementation of the classic Catch Game created using Scratch.This is a shark that needs to be eaten to death and It's a fun and interactive way to teach your students about basic game development concepts and Scratch programming.
 
+Game 4:
+
+![image](https://github.com/VagelisKormazos/Scratch-Games/assets/100516014/17bb0303-2c55-45b2-997f-7fc41fbb4ea5)
+
+This is a playful implementation of the classic Snake game in an application. In this game, the player controls a "snake" that grows longer each time it eats "food." The challenge is to avoid colliding with oneself and to collect the maximum number of foods to break the high score.
+
+
 ## Table of Contents
 - [Gameplay](#gameplay)
 - [Features](#features)
