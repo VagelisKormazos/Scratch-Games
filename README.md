@@ -23,6 +23,11 @@ Game 4:
 
 This is a playful implementation of the classic Snake game in an application. In this game, the player controls a "snake" that grows longer each time it eats "food." The challenge is to avoid colliding with oneself and to collect the maximum number of foods to break the high score.
 
+Game 5:
+
+![image](https://github.com/VagelisKormazos/Scratch-Games/assets/100516014/1e5de865-2543-4560-a400-a8236b5e6b96)
+
+Game 21, also known as "Black Jack", is a classic card game often played in casinos or with friends. The object of the game is to collect cards whose values total 21 or as close to 21 as possible, without exceeding 21.
 
 ## Table of Contents
 - [Gameplay](#gameplay)
