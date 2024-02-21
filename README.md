@@ -29,6 +29,12 @@ Game 5:
 
 Game 21, also known as "Black Jack", is a classic card game often played in casinos or with friends. The object of the game is to collect cards whose values total 21 or as close to 21 as possible, without exceeding 21.
 
+Game 6:
+
+![image](https://github.com/VagelisKormazos/Scratch-Games/assets/100516014/cd225eb0-1c58-4007-9332-83cd31de1959)
+
+Rock Paper Scissors, is a timeless hand game typically played between two people. The game is simple yet engaging, making it popular among people of all ages.
+
 ## Table of Contents
 - [Gameplay](#gameplay)
 - [Features](#features)
