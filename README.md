@@ -37,7 +37,8 @@ Rock Paper Scissors, is a timeless hand game typically played between two people
 
 Game 6:
 
-![image](https://github.com/VagelisKormazos/Scratch-Games/assets/100516014/abd966c8-ae4e-4ef2-b242-a774c403a76e)
+![image](https://github.com/VagelisKormazos/Scratch-Games/assets/100516014/f668851f-b6c9-4051-943b-b1398d9c2107)
+
 
 Memory Match Last is a fun memory game that enhances perception and brain functions. With Memory Match Last, you can improve your memory skills and enjoy countless hours of fun with friends and family.
 
