@@ -35,7 +35,7 @@ Game 6:
 
 Rock Paper Scissors, is a timeless hand game typically played between two people. The game is simple yet engaging, making it popular among people of all ages.
 
-Game 6:
+Game 7:
 
 ![image](https://github.com/VagelisKormazos/Scratch-Games/assets/100516014/f668851f-b6c9-4051-943b-b1398d9c2107)
 
